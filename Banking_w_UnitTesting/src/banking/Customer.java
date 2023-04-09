@@ -2,7 +2,7 @@ package banking;
 
 /**
  * Represents a customer of a bank.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class Customer {
