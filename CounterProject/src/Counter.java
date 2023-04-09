@@ -1,6 +1,6 @@
 /**
  * Represents a counter, with methods.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class Counter {
