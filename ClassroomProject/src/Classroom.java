@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Represents a classroom with students.
  * Each classroom has a list of students
  * and an array that represents the seats in the classroom.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class Classroom {
