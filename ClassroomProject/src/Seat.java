@@ -2,7 +2,7 @@
  * Represents a seat in a classroom.
  * Each seat has a row and column associated with it.
  * It also MIGHT have a student assigned to it.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class Seat {
