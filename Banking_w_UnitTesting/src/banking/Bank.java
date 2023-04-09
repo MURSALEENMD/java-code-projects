@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Represents a bank for managing customers and their bank accounts.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class Bank {
