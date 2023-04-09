@@ -1,6 +1,6 @@
 /**
  * Represents a customer.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class Customer {
