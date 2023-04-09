@@ -1,6 +1,6 @@
 /**
  * Represent a person.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class Person {
