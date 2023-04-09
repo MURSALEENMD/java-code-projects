@@ -1,7 +1,7 @@
 /**
  * Represents a student in the class.
  * Each student has a name and ID.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class Student {
