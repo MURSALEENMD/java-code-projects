@@ -2,7 +2,7 @@ package banking;
 
 /**
  * Represents a checking/savings bank account for a customer.
- * @author lbrandon
+ * @author Mursaleen
  *
  */
 public class BankAccount {
